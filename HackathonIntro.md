@@ -3,7 +3,8 @@
 
   *This Markdown file uses the [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) plugin to organize its Table of Contents.*
 
-## Select a Section! <!-- omit in toc -->
+## Select a Section 
+- [Select a Section](#select-a-section)
 - [Goals](#goals)
 - [Requirements to Run a Successful Hackathon](#requirements-to-run-a-successful-hackathon)
 - [Timeline](#timeline)
